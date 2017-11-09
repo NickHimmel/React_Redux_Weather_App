@@ -1,25 +1,24 @@
-# ReduxSimpleStarter
+# Modern React with Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Udemy course on learning React, Redux and ES6.  [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)?
 
-### Getting Started
+### Section 5: Intermediate Redux: Middleware
 
-There are two methods for getting started with this repo.
+This section covers integrating middleware into our React and Redux project.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+#### 5 Day Weather App
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+This is a 5 day weather app utilizing the Open Weather Api, Sparklines, and the Google Maps Api.
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+##### Technology Used
 
-```
-> npm install
-> npm start
-```
+* React
+* Redux
+* React Redux
+* React Sparklines
+* Redux Promise
+* Lodash
+* OpenWeatherMap
+* GoogleMaps
+* Webpack
+* Babel
